@@ -41,5 +41,4 @@ Seaart：
 
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Thanks, Micheli Matos
