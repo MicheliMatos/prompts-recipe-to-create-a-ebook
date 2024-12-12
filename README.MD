@@ -26,8 +26,7 @@ Seaart：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | crie uma imagem em desenho delicado e inteligente sobre as ferramentas utilizadas para a análise de dados. A imagem deve conter  computadores e telas 
-            que mostrem gráficos e números. A imagem deve ser para a capa de um ebook feito para mulheres do mercado financeiro, não incluir pessoas. |
+| título | crie uma imagem em desenho delicado e inteligente sobre as ferramentas utilizadas para a análise de dados. A imagem deve conter  computadores e telas que mostrem gráficos e números. A imagem deve ser para a capa de um ebook feito para mulheres do mercado financeiro, não incluir pessoas. |
 
 ## ✨ Features
 
