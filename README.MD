@@ -4,7 +4,7 @@
 Entrega de Desafios Criando um Ebook com ChatGPT e Midjourney - Projeto com o objetivo de gerar um ebook digital com as ferramentas de IA utilizadas nos cursos do bootcamp.  todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/MicheliMatos/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20An%C3%A1lise%20de%20Dados.pdf" title="View PDF now" 📕Clique aqui para ler</a>
+<a href="https://github.com/MicheliMatos/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20An%C3%A1lise%20de%20Dados.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
