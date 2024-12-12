@@ -35,8 +35,8 @@ Seaart：
 
 ## 📚 Materiais
 
-- - ebook gerado durante as aulas em Ebook Análise de Dados.pdf
-- - imagens utilizadas em Imagem1.png e Imagem2.png
+- ebook gerado durante as aulas em Ebook Análise de Dados.pdf
+- imagens utilizadas em Imagem1.png e Imagem2.png
 
 
 
